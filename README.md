@@ -29,7 +29,7 @@ for (int i = 0; i < input_len; i++) {
 int main() {
     printf("\n\n\n\n      ***** ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM *****\n\n\n");
     
-char url[] = "KIRUBANITHI";
+char url[] = "ESHWAR";
 char key[] = "secretkey"; 
 
 printf("Original text: %s\n", url);
@@ -45,7 +45,8 @@ return 0;
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/638345f5-a34e-4717-b653-c66cc6da4e2d)
+![image](https://github.com/user-attachments/assets/bfddf245-7176-418e-9e63-74f7f48a058f)
+
 
 ## RESULT: 
 The execution program is successfully executed.
