@@ -10,8 +10,8 @@
   4. AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
 ## PROGRAM: 
-## DEVELOPED BY : KIRUBANITHI.S
-## REGISTER NO. : 212223220047
+## DEVELOPED BY : ESHWAR T
+## REGISTER NO. : 212223230054
 ```C
 #include <stdio.h>
 #include <string.h>
